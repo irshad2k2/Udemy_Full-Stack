@@ -1,0 +1,68 @@
+.top-container {
+    background-color: #F4F1E9;
+}
+
+.head {
+    font-family: 'Caveat', cursive;
+    font-family: 'Marck Script', cursive;
+    font-size: 100px;
+}
+
+.sub-head {
+    font-family: 'Caveat', cursive;
+    font-family: 'Marck Script', cursive;
+}
+
+.icon {
+    width: 260px;
+}
+
+
+.hero {
+    background-color:  #9DC08B;
+}
+
+.feature {
+    background-color: #E6D8B0;
+}
+
+.skills {
+    background-color: #6B7A68;
+}
+
+footer {
+    background-color:  #303030;
+}
+
+footer .btn {
+    background-color: #EDF1D6;
+}
+
+.profile {
+    height: 150px;
+    border-radius: 50%;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+    
+}
+
+@media (max-width:1061px) {
+    .icon {
+        width: 200px;
+    }    
+}
+@media (max-width:795px) {
+    .icon {
+        width: 150px;
+    }    
+}
+@media (max-width:516px) {
+    .icon {
+        width: 130px;
+    }    
+}
+
